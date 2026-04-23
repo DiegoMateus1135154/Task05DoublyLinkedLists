@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="DoubleList.Core/DoubleList.Core.csproj" />
+  <Project Path="DoubleList.UI.Console/DoubleList.UI.Console.csproj" />
+</Solution>
